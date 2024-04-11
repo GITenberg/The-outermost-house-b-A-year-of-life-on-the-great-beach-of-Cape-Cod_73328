@@ -1,0 +1,33 @@
+_repo: The-outermost-house-b-A-year-of-life-on-the-great-beach-of-Cape-Cod_73328
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beston, Henry
+    aliases:
+    - Beston, Henry B.
+    - Sheahan, Henry Edouard
+    birthdate: 1888
+    deathdate: 1968
+    gutenberg_agent_id: '4320'
+    url: http://www.gutenberg.org/2009/agents/4320
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Beston
+description: ''
+gutenberg_issued: '2024-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73328'
+language: en
+pgterms:marc905: 20230220083758beston
+pgterms:marc906: '1928'
+pgterms:marc907: US
+production_note: Steve Mattern, Joeri de Ruiter and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aGarden City, NY :$bDoubleday, Doran and Company, $c1928, pubdate
+  1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The outermost house : $b A year of life on the great beach of Cape Cod'
+url: http://www.gutenberg.org/ebooks/73328
